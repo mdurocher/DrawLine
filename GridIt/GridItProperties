@@ -1,0 +1,5 @@
+frame-width = 800
+frame-height = 600
+frame-background = 0xc0c0c0
+default-font = gjm_realbook-webfont.ttf
+default-font-size = 30
